@@ -27,26 +27,16 @@ I'm a Computer Science & Engineering graduate specializing in AI/ML. Passionate 
 
 ---
 
-## 📊 GitHub Stats
-![Yuvasri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvasri-saravanan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvasri-saravanan&layout=compact&theme=radical)
-
----
-
 ## 🏆 Achievements
 - Successfully processed and classified **4 lung disease datasets** for a research project  
-- Built and compared **time series forecasting models** for stock price prediction  
+- Built and compared **time series forecasting models** for stock price prediction
+- Built an **AIR CANVAS PROJECT**
 - Experienced in **AI/ML deployment** using Python web frameworks  
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/yuvasri-saravanan-b4745027a)  
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:yuvasarahema@gmail.com)  
 
----
 
-## ⚡ Fun Fact
-- ☕ Coffee lover & music enthusiast  
-- 🤖 AI/ML enthusiast constantly experimenting with new models  
-- 🏞️ Nature lover and photography hobbyist
